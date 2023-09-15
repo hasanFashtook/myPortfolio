@@ -1734,18 +1734,6 @@ video {
   transition-delay: 1.5s
 }
 
-.delay-1700 {
-  transition-delay: 1.7s
-}
-
-.delay-1900 {
-  transition-delay: 1.9s
-}
-
-.delay-2100 {
-  transition-delay: 2.1s
-}
-
 .duration-1000 {
   transition-duration: 1s
 }
